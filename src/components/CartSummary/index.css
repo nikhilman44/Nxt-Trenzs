@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.summary-card {
+  background-color: transparent;
+  background-size: cover;
+  padding: 10px;
+}
+.first-line {
+  font-size: 20px;
+  color: #616e7c;
+  font: 500;
+}
+.amount {
+  font-size: 24px;
+  font-weight: 600;
+  color: #171f46;
+}
+.second-line {
+  font-size: 16px;
+  color: #616e7c;
+  font: 450;
+}
+.checkout {
+  padding: 12px;
+  color: #ffffff;
+  background-color: blue;
+  border-width: 0;
+  border-radius: 7px;
+  text-align: center;
+  width: 100%;
+}
